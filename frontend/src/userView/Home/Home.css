@@ -1,0 +1,10 @@
+.homeImg1{
+    background-image: url(../../images/home.webp);
+    background-size:cover;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 70px;
+}
